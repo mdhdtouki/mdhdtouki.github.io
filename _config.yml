@@ -23,11 +23,11 @@ repository               : "mdhdtouki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hasan_Touki.jpg"
   name             : "Hasan D Touki"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Ph.D. Student | Researcher | Learner"
+  location         : "Washington D.C., United States of America"
   employer         : "The George Washington University"
   uri              : # URL
   email            : "h.touki@gwu.edu" 
@@ -44,9 +44,6 @@ author:
 
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://facebook.com/mdhdtouki"
   linkedin         : "https://www.linkedin.com/in/mdhdtouki/"
 
 # Publication Category - The following the list of publication categories and their headings
