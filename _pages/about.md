@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Ph.D. Student, The George Washington University, D.C., 20052, USA
+subtitle: Ph.D. Student, The George Washington University
 
 profile:
   align: right
