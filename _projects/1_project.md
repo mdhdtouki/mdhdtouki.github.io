@@ -8,8 +8,9 @@ category: work
 related_publications: true
 ---
 
-In sustainable agriculture requires the fast information about the condition of cultivated plants and the quick response to undesirable occurrences . For this purpose , we have built a drone (using Cost effective equipment's) for monitoring & preventing field from any sort of damage.
+In sustainable agriculture requires the fast information about the condition of cultivated plants and the quick response to undesirable occurrences . For this purpose , we have built a drone (using Cost effective equipment) for monitoring & preventing field from any sort of damage.
 
+<h4><b><u>DOI: </u><a href="https://doi.org/10.13140/RG.2.2.25499.89127">10.13140/RG.2.2.25499.89127</a></b></h4> 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/drone.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
