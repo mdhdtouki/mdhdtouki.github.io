@@ -5,7 +5,7 @@ description: SMART FARMING WITH UAV SYSTEM (Agricultural Field Monitoring & Anim
 img: assets/img/drone.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 In sustainable agriculture requires the fast information about the condition of cultivated plants and the quick response to undesirable occurrences . For this purpose , we have built a drone (using Cost effective equipment) for monitoring & preventing field from any sort of damage.
