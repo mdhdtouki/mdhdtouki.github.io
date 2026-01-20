@@ -55,5 +55,3 @@ scholar_userid: 6U-gxGIAAAAJ # your Google Scholar ID
 custom_social: # can be any name here other than the ones already defined above
   logo: https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg # can be png, svg, jpg
   url: https://www.linkedin.com/in/mdhdtouki/
-  logo: https://commons.wikimedia.org/wiki/File:ORCID_iD.svg # can be png, svg, jpg
-  url: https://orcid.org/0009-0000-7816-6076
