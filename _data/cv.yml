@@ -33,56 +33,24 @@
         
     - title: Assistant Engineer
       institution: NRECA International
-      year: 1 May 2025 - 25 Aug 2025
+      year: May 2025 - Aug 2025
       location: Dhaka, Bangladesh
       description:
         - I was an AutoCAD specialist and did many drawings related to electric transmission.
 
     - title: Project Office Manager, OBE Cell
       institution: Dept. of ME, Bangladesh University of Engineering and Technology
-      year: 20 Jan 2025 - 30 Apr 2025 
+      year: Jan 2025 - Apr 2025 
       location: Dhaka, Bangladesh
       description:
       - I worked on the OBE Self Assessment Report (SAR) and infrastructure development of the department for OBE accreditation.
 
     - title: Research Assistant
       institution: Dept. of ME, Bangladesh University of Engineering and Technology
-      year: 1 Aug 2025 - 19 Jan 2025
+      year: Aug 2025 - Jan 2025
       location: Dhaka, Bangladesh
       description:
       - I did research on the degradation behaviour and frictional behaviour of nano composites.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
