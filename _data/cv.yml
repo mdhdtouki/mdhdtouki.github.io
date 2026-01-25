@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: PhD in Mechanical and Aerospace Engineering
-      institution: The George Washington University, D.C., USA
+      institution: The George Washington University
       year: 2025 - Present
       location: Washington D.C., USA
       description:
@@ -19,27 +19,22 @@
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
       year: 2019 - 2024
       description:
-        - Thesis: Degradation and mechanical behaviour of PCL and its blends with PLA and PGA.
+        - Thesis - Degradation and mechanical behaviour of PCL and its blends with PLA and PGA.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant (GRA)
+      institution: Dept. of MAE, The George Washington University
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Focusing on polyamide membrane fouling in molecular dynamics.
+        
+    - title: Assistant Engineer
+      institution: NRECA International
+      year: 1st May 2025 - 25 Aug 2025
       description:
-        - Description 1.
-        - Description 2.
+        - I was an AutoCAD specialist and did many drawings related to electric transmission.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
