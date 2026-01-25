@@ -17,6 +17,18 @@
     - title: B.Sc in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
       year: 2019 - 2024
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Mechanical and Aerospace Engineering
+      institution: The George Washington University
+      year: 2025 - Present
+      location: Washington D.C., USA
+ 
+    - title: B.Sc in Mechanical Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
+      year: 2019 - 2024
    
 - title: Experience
   type: time_table
@@ -49,5 +61,3 @@
       description:
       - I did research on the degradation behaviour and frictional behaviour of nano composites.
 
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
