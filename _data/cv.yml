@@ -56,14 +56,22 @@
       - I did research on the degradation behaviour and frictional behaviour of nano composites.
 
 - title: Awards
-  type: time_table
+  type: time-table
   contents:
     - title: Deans list award
         year: 2021
-        awarder: Bangladesh University of Engineering and Technology
-        Summary: Awarded for maintaing honors GPA for an academic year
+        institution: Bangladesh University of Engineering and Technology
+        description:
+        - Awarded for maintaing honors GPA for an academic year
 
-
+- title: Languages
+  type: map
+  contents:
+      - name: Bangla
+      - value: Native speaker
+      - name: English
+      - value: Fluent
+        
 
 
 
