@@ -9,16 +9,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Mechanical and Aerospace Engineering
       institution: The George Washington University, D.C., USA
       year: 2025-2030
       description:
-        - Description 1.
+        - Focusing on polyamide membrane fouling in molecular dynamics.
     - title: B.Sc in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
       year: 2019-2024
       description:
-        - Description 1.
+        - Thesis: Degradation and mechanical behaviour of PCL and its blends with PLA and PGA.
 
 - title: Experience
   type: time_table
