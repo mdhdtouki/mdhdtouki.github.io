@@ -11,52 +11,40 @@
   contents:
     - title: PhD in Mechanical and Aerospace Engineering
       institution: The George Washington University
-      year: 2025 - Present
+      year: 2025-Present
       location: Washington D.C., USA
  
     - title: B.Sc in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
-      year: 2019 - 2024
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Mechanical and Aerospace Engineering
-      institution: The George Washington University
-      year: 2025 - Present
-      location: Washington D.C., USA
- 
-    - title: B.Sc in Mechanical Engineering
-      institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
-      year: 2019 - 2024
+      year: 2019-2024
    
 - title: Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant (GRA)
       institution: Dept. of MAE, The George Washington University
-      year: 2025 - Present
+      year: 2025-Present
       location: Washington D.C., USA
       description:
         - Focusing on polyamide membrane fouling in molecular dynamics.
         
     - title: Assistant Engineer
       institution: NRECA International
-      year: May 2025 - Aug 2025
+      year: May 2025-Aug 2025
       location: Dhaka, Bangladesh
       description:
         - I was an AutoCAD specialist and did many drawings related to electric transmission.
 
     - title: Project Office Manager, OBE Cell
       institution: Dept. of ME, Bangladesh University of Engineering and Technology
-      year: Jan 2025 - Apr 2025 
+      year: Jan 2025-Apr 2025 
       location: Dhaka, Bangladesh
       description:
       - I worked on the OBE Self Assessment Report (SAR) and infrastructure development of the department for OBE accreditation.
 
     - title: Research Assistant
       institution: Dept. of ME, Bangladesh University of Engineering and Technology
-      year: Aug 2025 - Jan 2025
+      year: Aug 2025-Jan 2025
       location: Dhaka, Bangladesh
       description:
       - I did research on the degradation behaviour and frictional behaviour of nano composites.
